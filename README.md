@@ -1,25 +1,25 @@
 <h1 align="center">
 Who am i?
 </h1>
-<pre align='center'>
+<pre>
 <h3>
-🖖🏼My name is "Ervin"🖖🏼
-👨🏻‍💻15 years old programmer (Web dev)(front-end developer)👨🏻‍💻
-💻Code::Blocks User💻
-💻VSCode User💻
-✅i start my way at 2021✅
-📲IG: iam.ervinnn📲
+-My name is "Ervin"
+-15 years old programmer (Web dev)(front-end developer)
+-Code::Blocks User
+-VSCode User
+-i start my way at 2021
+-IG: iam.ervinnn
 </h3>
 </pre>
 <h1 align="center">
 My langs: 
 </h1>
 
-<pre align='center'>
+<pre >
 <h3>
-1️⃣1. C++1️⃣
- 2️⃣2. HTML/CSS2️⃣
- 3️⃣3. JavaScript3️⃣
+ • C++
+ • HTML/CSS
+ • JavaScript
  </h3>
 </pre>
 
@@ -27,24 +27,24 @@ My langs:
 Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 </h1>
 
-<pre align='center'>
+<pre>
 <h3>
-🗣Name: Emi🗣
-👩🏻Gender: Female👩🏻
-🔋10% Prepared🔋
-👨🏻‍💻Coded by: C++ (Code::blocks specefict AI)👨🏻‍💻
-📌Status: Project Running📌
-👥By: @ErvinGh88👥
+-Name: Emi
+-Gender: Female
+-10% Prepared
+-Coded by: C++ (Code::blocks specefict AI)
+-Status: Project Running
+-By: @ErvinGh88
 </h3>
 </pre>
 <h1 align="center">
   Owr <a title="Dark Planet" href="https://discord.gg/ajr4J9ZqET">Discord</a>
 </h1>
 
-<pre align='center'>
+<pre '>
 <h3>
-🆔Myself: fullydifferent🆔
-🆔Emi(Support): AI-Emi#1301🆔
-🆔Emi(Bot): AI-Emi#2990🆔
+• Myself: fullydifferent
+• Emi(Support): AI-Emi#1301
+• Emi(Bot): AI-Emi#2990
 </h3>
 </pre>
