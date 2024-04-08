@@ -7,7 +7,7 @@ Who am i?
 -15 years old programmer (Web dev)(front-end developer)(CyberSecurity)
 -CLion / VSCode User
 -i start my way at 2021
--IG: iam.ervinnn
+-IG: ervgoingcrazy
 </h3>
 </pre>
 <h1 align="center">
