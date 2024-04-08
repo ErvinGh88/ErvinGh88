@@ -54,7 +54,7 @@ Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/A
 
 <pre>
 <h3>
-• Myself: fullydifferent
+• Myself: ervgoingcrazy
 • Emi(Support): AI-Emi#1301
 • Emi(Bot): AI-Emi#2990
 </h3>
