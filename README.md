@@ -12,14 +12,3 @@ Our Team, <a title="AstroCo." href="https://github.com/AstroCorporation"> AstroC
 <h3>
 "Based on specific Github Rep"
 </h3>
-
-<h1 align="center">
-  Our <a title="Dark Planet" href="https://discord.gg/ajr4J9ZqET">Discord</a>
-</h1>
-<h3>
-<pre>
-• Myself: ervgoingcrazy
-• Emi(Support): AI-Emi#1301
-• Emi(Bot): AI-Emi#2990
-</pre>
-</h3>
